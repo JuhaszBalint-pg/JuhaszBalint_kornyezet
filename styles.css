@@ -1,0 +1,35 @@
+body {
+    background-color: #006004;
+}
+
+table {
+  text-align: auto;
+  background-color: palegreen;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.palack {
+    vertical-align: bottom;
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-decoration-color: #006400;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 1px solid #000000;
+
+}
+h2 {
+    color: #006400;
+}
+hr {
+    border-top: 1px solid black;
+}
+
